@@ -10,7 +10,7 @@
 
 ---
 
-> *"Architecting resilient enterprise software, scaling automated workflows, and building intelligent AI agents."*
+> *"Architecting resilient enterprise software, scaling automated workflows, and building intelligent AI agents."* <
 
 </div>
 
