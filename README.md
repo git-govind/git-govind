@@ -20,3 +20,27 @@
 
 ```bash
 govind@dev-machine:~$ neofetch --profile
+
+      .---.          OS: Azure Cloud & Hybrid Linux/Windows Environments
+     /     \         Role: Technology Lead @ Infosys Limited
+    |  (o)  |        Experience: 12+ Years Enterprise Application & Automation
+    |   <   |        Location: Calgary, AB, Canada
+     \     /         Focus: Generative AI, Enterprise RPA, .NET Core, Microservices
+      `---`          Certifications: Azure Developer | Agentic AI | Claude Architect
+
+
+📜 Certifications & Credentials:
+
+  🏅 GitHub Certified: Agentic AI Developer
+  
+  🏅 Claude Certified Architect: Professional (CCAR-P)
+  
+  🏅 Microsoft Certified: Azure Developer Associate
+  
+  🏅 Infosys Certified: Generative AI for All & Responsible AI Practitioner
+  
+  🏅 Infosys Certified: Global Agile Developer & Topaz Fabric 101
+
+
+📊 GitHub Activity & Metrics
+🤝 Open to collaboration on Agentic AI workflows, Enterprise Cloud Architecture, and Automation Pipelines!
